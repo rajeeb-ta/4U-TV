@@ -1,0 +1,26 @@
+#EXTM3U
+#Information
+#EXTINF:-1 tvg-id="TotalTVHaryana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png" group-title="Information",Total TV Haryana (576p)
+https://cdn-2.pishow.tv/live/1522/master.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za@SD" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="Information",LN24SA (1080p)
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="Information",CGTN (1080p)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="LoveWorldUK.ng@SD" tvg-logo="https://i.imgur.com/JgHbDmF.png" group-title="Information",Loveworld UK (1080p) [Not 24/7]
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WJLATV71.us@HD" tvg-logo="https://i.imgur.com/NfqhdBC.png" group-title="Information",ABC 7 Washington DC (WJLA) (1080p)
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="Information",Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlMadina.ps@SD" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="Information",Al Madina (720p)
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",Alien Nation (1080p)
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DUST.us@SD" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Information",Alien Nation by DUST (1080p)
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",Alien Nation by DUST (1080p)
+https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Information",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="Information",Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
